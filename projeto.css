@@ -40,20 +40,20 @@ margin-right: 32px;
 
 }
 
-.img {
- margin: 163px 0 0 123px;
+img {
+ margin: 83px 0 0 123px;
 display: inline-block;
 }
 
 div {
 display: inline-block;
-margin-left: 85px;
-width: 493px;
+margin-left: 63px;
+width: 393px;
 }
 
 h1 {
 font-weight: 700;
-font-size: 52px;
+font-size: 42px;
 line-height: 82px;
 letter-spacing: 0.596154px;
 color: #161A49;
